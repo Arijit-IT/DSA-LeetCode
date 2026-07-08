@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0485-max-consecutive-ones](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/1470-shuffle-the-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
