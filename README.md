@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/1470-shuffle-the-array) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Greedy
 |  |
