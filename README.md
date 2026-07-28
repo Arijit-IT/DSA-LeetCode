@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -30,6 +31,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -61,4 +63,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
