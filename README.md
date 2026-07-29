@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/0075-sort-colors) |
+| [0152-maximum-product-subarray](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -75,4 +76,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/0050-powx-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/Arijit-IT/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
